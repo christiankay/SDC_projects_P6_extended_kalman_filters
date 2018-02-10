@@ -21,12 +21,12 @@ In two different simulated runs, my Extended Kalman Filter produces the below re
 
 | Input |   MSE   |
 | ----- | ------- |
-|  px   | 0.06516 |
-|  py   | 0.06054 |
-|  vx   | 0.53321 |
-|  vy   | 0.54419 |
+|  px   | 0.0973 |
+|  py   | 0.0855 |
+|  vx   | 0.4512 |
+|  vy   | 0.4399 |
 
-![Test One Visualization](https://github.com/mvirgo/Extended-Kalman-Filter/blob/master/vis_1.png "Test One Visualization")
+![Test One Visualization](https://github.com/christiankay/SDC_projects_P6_extended_kalman_filters/tree/master/images/RMS.png "Kalman Filter Visualization")
 
 
 
