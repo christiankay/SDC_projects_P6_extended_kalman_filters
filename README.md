@@ -1,3 +1,5 @@
+![image1]: ./images/RMS.png "Kalman Filter Visualization"
+
 # Extended-Kalman-Filter
 Udacity CarND Term 2, Project 1 - Extended Kalman Filters
 
@@ -11,8 +13,7 @@ Assuming you have 'cmake' and 'make' already:
 1. Clone this repo.
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./ExtendedKF path/to/input.txt path/to/output.txt`. You can find some sample inputs in 'data/'.
-    * eg. `./ExtendedKF ../data/sample-laser-radar-measurement-data-1.txt output.txt`
+4. Run it: `./ExtendedKF 
 
 ## Results
 In two different simulated runs, my Extended Kalman Filter produces the below results. The x-position is shown as 'px', y-position as 'py', velocity in the x-direction is 'vx', while velocity in the y-direction is 'vy'. Residual error is calculated by mean squared error (MSE).
@@ -26,7 +27,8 @@ In two different simulated runs, my Extended Kalman Filter produces the below re
 |  vx   | 0.4512 |
 |  vy   | 0.4399 |
 
-![Test One Visualization](https://github.com/christiankay/SDC_projects_P6_extended_kalman_filters/tree/master/images/RMS.png "Kalman Filter Visualization")
 
 
 
+
+![alt text][image1]
