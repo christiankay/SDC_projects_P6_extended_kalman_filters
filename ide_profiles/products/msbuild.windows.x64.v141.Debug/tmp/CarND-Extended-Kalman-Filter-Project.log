@@ -1,0 +1,8 @@
+﻿  tools.cpp
+  main.cpp
+d:\sdc_projects\carnd-extended_kalman_fitlers\carnd-extended-kalman-filter-project\src\main.cpp(1): fatal error C1083: Cannot open include file: 'uWS/uWS.h': No such file or directory
+  kalman_filter.cpp
+  FusionEKF.cpp
+  Generating Code...
+d:\sdc_projects\carnd-extended_kalman_fitlers\carnd-extended-kalman-filter-project\src\tools.cpp(25): error C4716: 'Tools::CalculateJacobian': must return a value
+d:\sdc_projects\carnd-extended_kalman_fitlers\carnd-extended-kalman-filter-project\src\tools.cpp(18): error C4716: 'Tools::CalculateRMSE': must return a value
