@@ -1,4 +1,4 @@
-![image1]: ./images/RMS.png "Kalman Filter Visualization"
+[image1]: ./images/RMS.png "Kalman Filter Visualization"
 
 # Extended-Kalman-Filter
 Udacity CarND Term 2, Project 1 - Extended Kalman Filters
