@@ -13,7 +13,7 @@ Assuming you have 'cmake' and 'make' already:
 1. Clone this repo.
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./ExtendedKF 
+4. Run it: `./ExtendedKF`
 
 ## Results
 In two different simulated runs, my Extended Kalman Filter produces the below results. The x-position is shown as 'px', y-position as 'py', velocity in the x-direction is 'vx', while velocity in the y-direction is 'vy'. Residual error is calculated by mean squared error (MSE).
